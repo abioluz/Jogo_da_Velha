@@ -1,3 +1,4 @@
+
 class Velha:
     def __init__(self):
         del self.placar

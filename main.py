@@ -1,4 +1,5 @@
 import PySimpleGUI as sg
+
 from jogo import Velha
 
 CORES_BUTTON = {
